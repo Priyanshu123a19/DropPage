@@ -1,5 +1,5 @@
 // file: utils.js
-
+// this shit is getting real bruh in the PR merge
 // Calculate total price with discount and tax
 function calculateTotal(cart, discount = 0, taxRate = 0.1) {
     if (!Array.isArray(cart)) {
